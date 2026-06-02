@@ -1,2 +1,2 @@
-# mindustry-wind3-shenanigans
+# Wind3 Shenanigans
 Changes every sound with wind3
