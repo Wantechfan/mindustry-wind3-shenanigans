@@ -1,0 +1,8 @@
+name: "wind3-shenanigans"
+displayName: "Wind3 Shenanigans"
+author: "WantechFan"
+description: "Replaces all sounds with wind3."
+hidden: true
+version: "0.1"
+minGameVersion: "146"
+subtitle: "wind3.ogg"
